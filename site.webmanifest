@@ -23,6 +23,7 @@
   "theme_color": "#bb86fc",
   "background_color": "#121212",
   "id": "/The-Lunar-Archive/",
+  "scope": "/The-Lunar-Archive/",
   "start_url": "https://reaperwatch.github.io/The-Lunar-Archive/",
   "display": "standalone",
   "orientation": "portrait",
