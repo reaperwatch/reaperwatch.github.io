@@ -30,7 +30,7 @@
   "protocol_handlers": [
     {
       "protocol": "web+lunar",
-      "url": "archive?item=%s"
+      "url": "/The-Lunar-Archive/index.html?item=%s"
     }
   ]
 }
