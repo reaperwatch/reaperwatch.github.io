@@ -1,4 +1,5 @@
 discord linguist-language=text
-*.webmanifest binary
+
 site.webmanifest content-type=application/manifest+json
+sw.js content-type=application/javascript
 sitemap.xml content-type=application/xml
