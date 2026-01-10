@@ -1,1 +1,5 @@
 discord linguist-language=text
+
+*.webmanifest binary
+site.webmanifest text/json
+sitemap.xml text/xml
